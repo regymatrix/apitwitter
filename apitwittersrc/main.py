@@ -10,9 +10,8 @@ auth = tweepy.OAuthHandler(consumer_key=CONSUMER_KEY, consumer_secret=CONSUMER_S
 auth.set_access_token(ACCESS_TOKEN,ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(auth)
-#trends = api.get_place_trends(BRAZIL_WOE_ID)
+trends = api.get_place_trends(BRAZIL_WOE_ID)
 
-tweets = api.request('https://api.twitter.com/2/tweets')
 
 
 for tweet in tweets:
