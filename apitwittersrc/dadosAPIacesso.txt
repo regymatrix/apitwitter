@@ -1,0 +1,16 @@
+Twitter API Key
+XiwcB5Rtz4TtB9jnDAsuO37jY
+
+
+API Secret
+tv1R6SjGt1fXkqTWzDU1qMvayMH675jnUsgsOjBwpHbHgYT8yk
+
+Base Token
+AAAAAAAAAAAAAAAAAAAAAEL8qgEAAAAAuZ9XPMvuk3bqboCpNG80MM0ix9U%3Dgb2b36Mym9kUZjkJnLJ35ZUkI2ArxstMJhD1l4I2dSzRogul1M
+
+
+Access Token
+250728237-LYSKwlWXCZa86bUzrF1UdD3rJ2u4Fsl9OM740jB9
+
+Acess Token Secret
+k2h9LewRgLKm4iLqpgg0qHEO7TuUwdh5GHEbKAnkN7Hlq
