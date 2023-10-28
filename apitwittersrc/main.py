@@ -14,5 +14,5 @@ trends = api.get_place_trends(BRAZIL_WOE_ID)
 
 
 
-for tweet in tweets:
+for tweet in trends:
     print(tweet)
